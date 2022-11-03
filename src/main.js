@@ -16,3 +16,4 @@ console.log(calc(15, 16, addition));
 setTimeout(function(){
   console.log("hello motherfuckers")
 }, 2000)
+
