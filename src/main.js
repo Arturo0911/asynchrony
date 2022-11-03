@@ -1,4 +1,6 @@
-
+#!/home/arturo/.nvm/versions/node/v16.18.0/bin/node
+// trying to understand the callbacks
+// and how it works, in the javascript world
 
 
 function addition(num1, num2){
