@@ -12,3 +12,5 @@ kind of routine or action.
 # What's a promise in javascript?
 
 Is common used to indicate about a something will be happen
+
+## In this repo you will find also typescript code
